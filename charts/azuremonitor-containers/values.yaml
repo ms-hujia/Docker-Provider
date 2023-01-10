@@ -19,6 +19,7 @@ Azure:
     httpsProxy: ""
     noProxy: ""
     proxyCert: ""
+    isCustomCert: false
 amalogs:
   image:
     repo: "mcr.microsoft.com/azuremonitor/containerinsights/ciprod"
